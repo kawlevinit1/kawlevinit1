@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kawlevinit1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Machine Learning & Data Science
+- 👀 I’m interested in Robotics Process Automation 
+- 🌱 I’m currently working as Automation Developer
 
 <!---
 kawlevinit1/kawlevinit1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
